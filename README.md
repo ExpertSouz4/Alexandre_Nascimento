@@ -43,5 +43,25 @@
 
 ---
 
-### 🚀 Vamos nos co
+### 🚀 Vamos nos conectar!
 
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alexandrenascimento@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 📌 Curiosidade bônus:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Data Science GIF">
+</p>
+
+<p align="center"><strong>Transformando dados em decisões. Marketing em ação. Jogo sempre ligado. 🚀</strong></p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+ao+meu+GitHub!;Sinta-se+livre+para+explorar+🚀;Dados+%2B+Marketing+%3D+Futuro+💡&center=true&width=440&height=45">
+</p>
