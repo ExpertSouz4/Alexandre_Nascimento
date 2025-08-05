@@ -1,47 +1,47 @@
 <!-- Banner animado no topo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Tech GIF">
 </p>
 
-<h1 align="center">Olá! Eu sou o Alexandre Nascimento 👋</h1>
-
----
-
-### 🚀 Sobre mim
-
-🎓 Atualmente estou cursando **Marketing Digital e Ciência de Dados** na **Uniceplac**.<br>  
-🐍 Aprendendo **Python**, **Machine Learning** e outras ferramentas de **análise de dados**.<br>  
-🎮 Apaixonado por **jogos eletrônicos** — eles me inspiraram a explorar tecnologia e dados!<br>  
-
----
-
-### 🛠️ Tecnologias & Ferramentas que estou aprendendo
-
-- 📊 Python para análise de dados
-- 🧠 Machine Learning com Scikit-learn
-- 📉 Visualização de dados com Matplotlib e Seaborn
-- 📁 Jupyter Notebook
-- 🧮 Estatística aplicada
-- 🕵️‍♂️ Google Analytics e ferramentas de marketing digital
-
----
-
-### 💡 Objetivos
-
-- Aprimorar meu conhecimento em **Data Science**
-- Aprender mais sobre **IA e automação**
-- Unir **marketing** e **dados** para resolver problemas reais
-- Criar projetos incríveis com base nos meus aprendizados 💻📈
-
----
-
-### 📫 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione o link real do seu perfil)*
-- 📧 alexandrenascimento@email.com *(adicione seu e-mail real ou uma forma de contato)*
-
----
+<h1 align="center">Fala aí, eu sou o Alexandre Nascimento 👾</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" alt="Gaming gif">
+  🌐 Estudante de <strong>Marketing Digital</strong> & <strong>Ciência de Dados</strong> na <strong>Uniceplac</strong><br>
+  🚀 Explorando o mundo da <strong>programação</strong> e da <strong>inteligência artificial</strong><br>
+  🎮 Gamer nas horas vagas e apaixonado por tecnologia!
 </p>
+
+---
+
+### 🧠 O que estou aprendendo atualmente:
+
+- 🐍 **Python**: do básico até automações poderosas
+- 🧬 **Machine Learning**: modelos inteligentes que aprendem sozinhos
+- 📊 **Análise de dados**: transformar números em decisões
+- 📈 **Visualização de dados**: gráficos que contam histórias
+- 💻 **Ferramentas**: Jupyter, pandas, scikit-learn, matplotlib, seaborn...
+
+> “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.” – Albert Einstein
+
+---
+
+### 🎯 Meus objetivos
+
+- 💡 Usar **dados** para resolver problemas reais
+- 📢 Integrar **marketing digital + inteligência de dados**
+- 🤖 Criar projetos de IA que impressionem
+- 🛠️ Construir um portfólio que mostre minhas habilidades
+
+---
+
+### 🎮 Paixões que me definem
+
+- 👨‍💻 Codar enquanto escuto uma boa trilha sonora
+- 🎮 Jogos eletrônicos (sou movido por desafios)
+- 📚 Aprender algo novo TODO DIA
+- 🌐 Tecnologia, criatividade e inovação
+
+---
+
+### 🚀 Vamos nos co
+
